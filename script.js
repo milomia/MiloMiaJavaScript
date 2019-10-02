@@ -1,4 +1,3 @@
-var gMapAPIKey = 'AIzaSyAPRqWiAQK5zQtbjYcHdOE9VgTdqXgeIvI';
 
 var map;
 
